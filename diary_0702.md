@@ -21,7 +21,7 @@ you can import a stylesheet <br>
   * @font-face
   * font-weight (changes text to bold, etc.; same does  ```<strong></strong>``` and ```<b></b>```)
   * text-transform (changes fonts to uppercase, lowercase, capitalize)
-  * font-variant (e,g, small gaps, annotation,)
+  * font-variant (e,g, small caps, annotation,)
   * textfield-decoration (underline, overline, line-through)
   * text-indent
   * text-align (right, left, center, justify (blocksatz))
