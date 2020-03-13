@@ -8,4 +8,3 @@
 * when using a button in html/javascript, be sure to write ```<button type="button"></button>```
 * I learned AGAIN, that you have to embed the godforsaken stylesheet into your html file or otherwise it. won't. WORK!
 * the datatype .svg document stands for 'scalable vector graphics'
-* 
